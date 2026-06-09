@@ -1,13 +1,13 @@
 ## Hi there, I'm Raúl Cepello! 👋
 
-I am a **Strategic Operations Leader & Senior Data Intelligence Specialist** based in Dublin. [cite_start]Currently, I work as an **Operations Team Leader at Cognizant @ Google Maps** [cite: 15, 16][cite_start], where I manage a cross-functional team of over 20 associates across EMEA markets [cite: 17] [cite_start]and deliver data-driven insights to influence high-level business strategy[cite: 18].
+I am a **Strategic Operations Leader & Senior Data Intelligence Specialist** based in Dublin. Currently, I work as an **Operations Team Leader at Cognizant @ Google Maps**, where I manage a cross-functional team of over 20 associates across EMEA markets and deliver data-driven insights to influence high-level business strategy.
 
-[cite_start]With over 5 years of experience in the tech industry (Google Maps & Ads) [cite: 15, 23, 33][cite_start], I specialize in bridging the gap between complex big data and executive decision-making[cite: 6, 7]. [cite_start]I leverage advanced analytics to optimize organizational efficiency, design KPI ecosystems, and drive operational excellence[cite: 8, 19, 26].
+With over 5 years of experience in the tech industry (Google Maps & Ads), I specialize in bridging the gap between complex big data and executive decision-making. I leverage advanced analytics to optimize organizational efficiency, design KPI ecosystems, and drive operational excellence.
 
 ### 🎯 Areas of Focus & Current Impact
-* [cite_start]**Operations Leadership (Current Role):** Directing multilingual teams, managing SLA governance (Quality, Productivity), and resource planning[cite: 17, 19, 21].
-* [cite_start]**Business Intelligence & Strategy:** Designing automated KPI dashboards and data pipelines to support Senior Executives[cite: 18, 26].
-* [cite_start]**Product & Market Intelligence:** Optimizing data integrity, analyzing compliance trends, and managing geolocation/ads workflows[cite: 20, 31, 32].
+* **Operations Leadership (Current Role):** Directing multilingual teams, managing SLA governance (Quality, Productivity), and resource planning.
+* **Business Intelligence & Strategy:** Designing automated KPI dashboards and data pipelines to support Senior Executives.
+* **Product & Market Intelligence:** Optimizing data integrity, analyzing compliance trends, and managing geolocation/ads workflows.
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) `Python (Pandas, NumPy)` | ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) `SQL`
