@@ -10,7 +10,7 @@ With over 5 years of experience in the tech industry (Google Maps & Ads), I spec
 * **Product & Market Intelligence:** Optimizing data integrity, analyzing compliance trends, and managing geolocation/ads workflows.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) `Python (Pandas, NumPy)` | ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) `SQL`
+* **Languages & Databases:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) `Python (Pandas, NumPy)` | ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) `SQL` | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) `MongoDB`
 * **Data Visualization / BI:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) `Tableau` | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) `Power BI` | ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white) `Google Looker Studio`
 * **Analytics & Systems:** `Advanced Excel` | `Predictive Modelling` | `NLP` | `CRM Optimization`
 
