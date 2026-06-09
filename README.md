@@ -1,4 +1,4 @@
-## Hi there, I'm Raúl Cepello! 👋
+## Hi there, my name is Raúl Cepello.
 
 I am a **Strategic Operations Leader & Senior Data Intelligence Specialist** based in Dublin. Currently, I work as an **Operations Team Leader at Cognizant @ Google Maps**, where I manage a cross-functional team of over 20 associates across EMEA markets and deliver data-driven insights to influence high-level business strategy.
 
