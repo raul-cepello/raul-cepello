@@ -1,7 +1,8 @@
 ## Hi there, my name is Raúl Cepello.
 
 **Strategic Operations Leader & Data Intelligence Specialist**
- 📍 Dublin, Ireland  | My [LinkedIn](https://linkedin.com/in/raul-cepello-cobos) |
+📍 Dublin, Ireland  | My [LinkedIn](https://linkedin.com/in/raul-cepello-cobos)
+ 
 I am an Operations Team Leader at Cognizant for Google Maps, where I manage a cross-functional team of over 20 associates across EMEA markets. My day to day involves driving operational excellence and turning complex data into insights that help influence high level business strategy.
 
 With over 5 years in the tech industry—specifically working within the Google Maps and Ads ecosystems, I focus on bridging the gap between big data and executive decision-making.
