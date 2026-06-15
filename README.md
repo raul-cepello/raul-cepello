@@ -10,7 +10,7 @@ With over 5 years in the tech industry—specifically working within the Google 
 * **Analytics & Frameworks:** Predictive Modelling, NLP, Market Basket Analysis, Recommendation Systems, Advanced Excel.
 * **Methodologies:** PRISM Framework, SLA Governance, Resource Planning, Agile Team Management.
 
-## Education & Practical Projects
+## 📘 Education & Practical Projects
 
 To complement my hands-on industry experience, I completed my Data Analytics studies (Level 7 & Level 8 Higher Diploma) at CCT College Dublin. The programme was heavily focused on Problem-Based Learning (PBL) and solving industry-initiated challenges. 
 
@@ -29,7 +29,7 @@ Here are some of the key projects and assignments I’ve worked on:
 
 ---
 * Dublin, Ireland 🇮🇪
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/raul-cepello-cobos) | 📊 Check my [Tableau Portfolio](https://public.tableau.com/app/profile/raul.cepello.cobos/)
+*📫 Connect with me on [LinkedIn](https://linkedin.com/in/raul-cepello-cobos) | 📊 Check my [Tableau Portfolio](https://public.tableau.com/app/profile/raul.cepello.cobos/)
 
 <!--
 **raul-cepello/raul-cepello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
