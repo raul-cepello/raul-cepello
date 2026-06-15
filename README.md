@@ -1,20 +1,34 @@
 ## Hi there, my name is Raúl Cepello.
 
-I am a **Strategic Operations Leader & Senior Data Intelligence Specialist** based in Dublin. Currently, I work as an **Operations Team Leader at Cognizant @ Google Maps**, where I manage a cross-functional team of over 20 associates across EMEA markets and deliver data-driven insights to influence high-level business strategy.
+I am a Strategic Operations Leader and Data Intelligence Specialist based in Dublin. Currently, I work as an Operations Team Leader at Cognizant for Google Maps, where I manage a cross-functional team of over 20 associates across EMEA markets. My day-to-day involves driving operational excellence and turning complex data into insights that help influence high-level business strategy.
 
-With over 5 years of experience in the tech industry (Google Maps & Ads), I specialize in bridging the gap between complex big data and executive decision-making. I leverage advanced analytics to optimize organizational efficiency, design KPI ecosystems, and drive operational excellence.
+With over 5 years in the tech industry—specifically working within the Google Maps and Ads ecosystems—I focus on bridging the gap between big data and executive decision-making. 
+
+### 🛠️ Tech Stack & Tools
+* **Languages & Databases:** Python (Pandas, NumPy, Scikit-Learn), SQL, MongoDB.
+* **Data Visualization & BI:** Plotly, Tableau, Power BI, Google Looker Studio.
+* **Analytics & Frameworks:** Predictive Modelling, NLP, Market Basket Analysis, Recommendation Systems, Advanced Excel.
+* **Methodologies:** PRISM Framework, SLA Governance, Resource Planning, Agile Team Management.
+
+## Education & Practical Projects
+
+To complement my hands-on industry experience, I completed my Data Analytics studies (Level 7 & Level 8 Higher Diploma) at CCT College Dublin. The programme was heavily focused on Problem-Based Learning (PBL) and solving industry-initiated challenges. 
+
+Here are some of the key projects and assignments I’ve worked on:
+
+* **Strategic Thinking Capstone Project:** A full-semester project focused on strategic problem-solving using the PRISM framework, evaluating data protection (GDPR), privacy issues, and business opportunities in emerging tech.
+* **Machine Learning for Business:** Implementation of unsupervised learning models, including cluster analysis for customer segmentation, text analytics/NLP, and time-series modeling for business data.
+* **Big Data Analytical Methods:** Hands-on work focused on feature engineering, data exploration, and designing scalable data storage and processing solutions using SQL and NoSQL databases.
+* **Data Visualisation & Communication:** Developing interactive dashboards designed to translate massive datasets into quick, actionable insights for senior stakeholders.
 
 ### 🎯 Areas of Focus & Current Impact
 * **Operations Leadership (Current Role):** Directing multilingual teams, managing SLA governance (Quality, Productivity), and resource planning.
 * **Business Intelligence & Strategy:** Designing automated KPI dashboards and data pipelines to support Senior Executives.
 * **Product & Market Intelligence:** Optimizing data integrity, analyzing compliance trends, and managing geolocation/ads workflows.
 
-### 🛠️ Tech Stack & Tools
-* **Languages & Databases:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) `Python (Pandas, NumPy)` | ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) `SQL` | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) `MongoDB`
-* **Data Visualization / BI:** ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) `Plotly`| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) `Tableau` | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) `Power BI` | ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white) `Google Looker Studio`
-* **Analytics & Systems:** `Advanced Excel` | `Predictive Modelling` | `NLP` | `CRM Optimization`|`Recommendation Systems`| `Market Basket Analysis`
 
 ---
+* Dublin, Ireland 🇮🇪
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/raul-cepello-cobos) | 📊 Check my [Tableau Portfolio](https://public.tableau.com/app/profile/raul.cepello.cobos/)
 
 <!--
