@@ -1,6 +1,6 @@
 ## Hi there, my name is Raúl Cepello.
 
-###**Strategic Operations Leader & Data Intelligence Specialist**
+### **Strategic Operations Leader & Data Intelligence Specialist**
 
 📍 Dublin, Ireland  | My [LinkedIn](https://linkedin.com/in/raul-cepello-cobos)
  
