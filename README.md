@@ -4,12 +4,12 @@ I am a Strategic Operations Leader and Data Intelligence Specialist based in Dub
 
 With over 5 years in the tech industry—specifically working within the Google Maps and Ads ecosystems—I focus on bridging the gap between big data and executive decision-making. 
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 * **Languages & Databases:** Python (Pandas, NumPy, Scikit-Learn), SQL, MongoDB.
 * **Data Visualization & BI:** Plotly, Tableau, Power BI, Google Looker Studio.
 * **Analytics & Frameworks:** Predictive Modelling, NLP, Market Basket Analysis, Recommendation Systems, Advanced Excel.
 * **Methodologies:** PRISM Framework, SLA Governance, Resource Planning, Agile Team Management.
-
+---
 ## 📘 Education & Practical Projects
 
 To complement my hands-on industry experience, I completed my Data Analytics studies (Level 7 & Level 8 Higher Diploma) at CCT College Dublin. The programme was heavily focused on Problem-Based Learning (PBL) and solving industry-initiated challenges. 
@@ -20,8 +20,8 @@ Here are some of the key projects and assignments I’ve worked on:
 * **Machine Learning for Business:** Implementation of unsupervised learning models, including cluster analysis for customer segmentation, text analytics/NLP, and time-series modeling for business data.
 * **Big Data Analytical Methods:** Hands-on work focused on feature engineering, data exploration, and designing scalable data storage and processing solutions using SQL and NoSQL databases.
 * **Data Visualisation & Communication:** Developing interactive dashboards designed to translate massive datasets into quick, actionable insights for senior stakeholders.
-
-### 🎯 Areas of Focus & Current Impact
+---
+## 🎯 Areas of Focus & Current Impact
 * **Operations Leadership (Current Role):** Directing multilingual teams, managing SLA governance (Quality, Productivity), and resource planning.
 * **Business Intelligence & Strategy:** Designing automated KPI dashboards and data pipelines to support Senior Executives.
 * **Product & Market Intelligence:** Optimizing data integrity, analyzing compliance trends, and managing geolocation/ads workflows.
